@@ -8,3 +8,7 @@ https://www.aparat.com/v/3KwVZ
 Chapter 01:
 Names++ - Part1
 https://aparat.com/v/zmLaA
+
+Chapter 02:
+Names++ - Part2
+https://aparat.com/v/1UZMR
