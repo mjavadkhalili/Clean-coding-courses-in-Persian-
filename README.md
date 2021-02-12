@@ -4,3 +4,7 @@
 Chapter 00:
 Introduction
 https://www.aparat.com/v/3KwVZ
+
+Chapter 01:
+Names++
+https://aparat.com/v/zmLaA
