@@ -14,3 +14,7 @@ https://aparat.com/v/1UZMR
 Chapter 03:
 Names++ Part3
 https://aparat.com/v/gsUX6
+
+Chapter 04:
+Functions Part1
+https://aparat.com/v/DShcF
